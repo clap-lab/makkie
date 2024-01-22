@@ -1,4 +1,4 @@
-This repository will contain the simplification code for the following paper:
+This repository contains the simplification code for the following paper:
 
 Eliza Hobo, Charlotte Pouw, Lisa Beinborn (2023):<br>
 "Geen makkie": Interpretable Classification and Simplification of Dutch Text Complexity <br>
